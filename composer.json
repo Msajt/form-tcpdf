@@ -1,0 +1,11 @@
+{
+    "name": "paulo/teste_tcpdf",
+    "autoload": {
+        "psr-4": {
+            "Paulo\\TesteTcpdf\\": "src/"
+        }
+    },
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
